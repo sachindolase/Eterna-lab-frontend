@@ -11,9 +11,6 @@ A pixel-perfect replica of Axiom Trade's token discovery table built with Next.j
 - **Loading States**: Skeleton loaders, shimmer effects, progressive loading, error boundaries
 - **Responsive Design**: Fully responsive from 320px width and up
 
-# Axiom Trade — Token Discovery Table (Replica)
-
-Hi — I'm the author of this project. I built a near pixel-perfect replica of Axiom Trade's token discovery table as a focused frontend exercise. Below I explain what I built, how to run and verify it locally, and what I recommend next.
 
 ## What I built (short, human-friendly)
 - A responsive token discovery table with three category columns: New Pairs, Final Stretch, and Migrated.
@@ -35,7 +32,7 @@ Hi — I'm the author of this project. I built a near pixel-perfect replica of A
 
 ```powershell
 git clone <repo-url>
-cd Externa_frontend
+cd Eterna-lab-frontend
 npm install
 ```
 
